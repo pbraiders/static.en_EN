@@ -1,0 +1,3 @@
+Sitemap: https://www.pbraiders.com/sitemap.xml.gz
+User-agent: *
+Disallow:

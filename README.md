@@ -1,2 +1,2 @@
 # en-EN
-English version of the website.
+English version of the static website.
